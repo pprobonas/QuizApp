@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="description1">Choose one of the following</string>
+    <string name="question1">1. Russia has a larger surface area than Pluto.</string>
+    <string name="question2">2. If the sun were the size of a white blood cell then the Milky Way Galaxy would be the size of the United States.</string>
+    <string name="question3">3. Scotland’s national animal is the unicorn.</string>
+    <string name="question4">4. How many hearts does an octopus have?</string>
+    <string name="answer4_1">One</string>
+    <string name="answer4_2">Two</string>
+    <string name="answer4_3">Three</string>
+    <string name="answer4_4">Five</string>
+    <string name="question5">5. According to the guinness book of world records the longest moustache measures</string>
+    <string name="answer5_1">1.29 m</string>
+    <string name="answer5_2">10.29 m</string>
+    <string name="answer5_3">4.29 m</string>
+    <string name="answer5_4">42.9 m</string>
+    <string name="description2">Choose two or more of the following</string>
+    <string name="question6">6. On which planets does it rain diamonds?</string>
+    <string name="answer6_1">Earth</string>
+    <string name="answer6_2">Jupiter</string>
+    <string name="answer6_3">Mars</string>
+    <string name="answer6_4">Saturn</string>
+    <string name="question7">7. The two animals responsible for the death of the most people are:</string>
+    <string name="answer7_1">Mosquitoes</string>
+    <string name="answer7_2">Snakes</string>
+    <string name="answer7_3">Sharks</string>
+    <string name="answer7_4">Lions</string>
+    <string name="hint">Name</string>
+    <string name="submitButton">Submit</string>
+    <string name="resetButton">Reset</string>
+    <string name="errorMessage1">Please answer all questions</string>
+    <string name="errorName">Please enter your name</string>
+
+</resources>
